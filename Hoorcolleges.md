@@ -1,0 +1,19 @@
+# Hoogcolleges
+## Wat betekend een netwerkarchitectuur voor mij
+Verbinding tussen verschillend apparatuur via verschillende manieren
+
+## H1 fysieke laag
+### 1.1 signalen, frequentiespectra, bandbreedtes
+### 1.2 Transmissiemedia
+fysieke laag (verstuurder) -> kabel of lucht -> fysieke laag (ontvanger)
+
+type bepaalt max capaciteit
+
+!Logaritmische schaal!
+
+- UTP: 1...+-600MHz
+- COAX: 800MHz
+- Fiber: +0,2dB/km
+
+ISI => inter symbool interferentie
+
